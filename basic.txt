@@ -1,7 +1,0 @@
-This is my first basic project.
-
-I will learn everything about github gradually. 
-Through this project I can create project through my own idea.
-
-By Developing project for real life, everything can be easier.
-This is the changes made in new branch.
